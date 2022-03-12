@@ -9,6 +9,8 @@ namespace Programs
             Program program = new Program();
             Console.WriteLine(program.arrayMax());
             Console.WriteLine(program.leapYear());
+            int[] array = { 2, 2, 3 };
+            Console.WriteLine(program.perfectSequence(array));
 
         }
         public string arrayMax()
@@ -41,6 +43,27 @@ namespace Programs
             else 
                 return " is not a Leap Year." + Year;
             
+        }
+        public string perfectSequence(int[] array)
+        {
+            int prod = 1;
+            int sum = 0;
+            foreach (int num in array)
+            {
+                prod *= num;
+                sum += num;
+                if (num < 0)
+                {
+                    return "No";
+                }
+
+            }
+            if (prod == sum)
+            {
+                return "Yes";
+            }
+
+            return "No";
         }
     }
 }
