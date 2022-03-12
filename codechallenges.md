@@ -24,3 +24,10 @@ A perfect sequence is a sequence such that all of its elements are non-negative 
 ![problem 3 instructions](challenges/problem3instructions.jpg)
 ##### results
 ![problem 3 result 3](challenges/problem3result.jpg)
+
+#### Problem 4: Sum of Rows
+##### Given a matrix of integers. Return the sum of each row in a single dimensional array.
+
+![problem 4 instructions](challenges/problem4instruction.jpg)
+##### results
+![problem 4 result 4](challenges/problem4result.jpg)
