@@ -13,3 +13,14 @@
 ![problem 2 result 2](challenges/problem2result2.jpg)
 
 ![problem 2 result](challenges/problem2result.jpg)
+
+
+#### Problem 3: Perfect Sequence
+##### Given an array, return “Yes” if the sequence is considered a perfect sequence. Otherwise, return “No”
+
+Perfect Sequences
+A perfect sequence is a sequence such that all of its elements are non-negative integers and the product of all of them is equal to their sum. For example: [2,2], [1,3,2] and [0,0,0,0] are perfect sequences and [4,5,6] and [0,2,-2] are not perfect sequences. Negative numbers of any kind are not valid in a perfect sequence
+
+![problem 3 instructions](challenges/problem3instructions.jpg)
+##### results
+![problem 3 result 3](challenges/problem3result.jpg)
