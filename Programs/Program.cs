@@ -7,10 +7,10 @@ namespace Programs
         static void Main(string[] args)
         {
             Program program = new Program();
-            //Console.WriteLine(program.arrayMax());
-            //Console.WriteLine(program.leapYear());
-            //int[] array = { 2, 2, 3 };
-            //Console.WriteLine(program.perfectSequence(array));
+            Console.WriteLine(program.arrayMax());
+            Console.WriteLine(program.leapYear());
+            int[] array = { 2, 2, 3 };
+            Console.WriteLine(program.perfectSequence(array));
             Console.WriteLine(program.SumOfrows());
         }
         public string arrayMax()
