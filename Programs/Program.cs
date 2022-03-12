@@ -8,6 +8,8 @@ namespace Programs
         {
             Program program = new Program();
             Console.WriteLine(program.arrayMax());
+            Console.WriteLine(program.leapYear());
+
         }
         public string arrayMax()
         {
@@ -30,5 +32,15 @@ namespace Programs
             }
             return "your score is: " + num * count;
     }
+        public string leapYear()
+        {
+            Console.WriteLine("Enter Year : ");
+            int Year = int.Parse(Console.ReadLine());
+            if (((Year % 4 == 0) && (Year % 100 != 0)) || (Year % 400 == 0)) 
+                return "is a Leap Year." +  Year;
+            else 
+                return " is not a Leap Year." + Year;
+            
+        }
     }
 }

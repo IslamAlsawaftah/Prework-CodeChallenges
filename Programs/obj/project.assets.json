@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Islam\\source\\repos\\Prework-CodeChallenges\\Programs\\Programs.csproj",
+      "projectUniqueName": "C:\\Users\\Islam\\source\\repos\\New folder\\Prework-CodeChallenges\\Programs\\Programs.csproj",
       "projectName": "Programs",
-      "projectPath": "C:\\Users\\Islam\\source\\repos\\Prework-CodeChallenges\\Programs\\Programs.csproj",
+      "projectPath": "C:\\Users\\Islam\\source\\repos\\New folder\\Prework-CodeChallenges\\Programs\\Programs.csproj",
       "packagesPath": "C:\\Users\\Islam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Islam\\source\\repos\\Prework-CodeChallenges\\Programs\\obj\\",
+      "outputPath": "C:\\Users\\Islam\\source\\repos\\New folder\\Prework-CodeChallenges\\Programs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",

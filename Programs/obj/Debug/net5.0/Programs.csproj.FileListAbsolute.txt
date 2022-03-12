@@ -14,3 +14,19 @@ C:\Users\Islam\source\repos\Programs\Programs\obj\Debug\net5.0\refint\Programs.d
 C:\Users\Islam\source\repos\Programs\Programs\obj\Debug\net5.0\Programs.pdb
 C:\Users\Islam\source\repos\Programs\Programs\obj\Debug\net5.0\Programs.genruntimeconfig.cache
 C:\Users\Islam\source\repos\Programs\Programs\obj\Debug\net5.0\ref\Programs.dll
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\bin\Debug\net5.0\Programs.exe
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\bin\Debug\net5.0\Programs.deps.json
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\bin\Debug\net5.0\Programs.runtimeconfig.json
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\bin\Debug\net5.0\Programs.runtimeconfig.dev.json
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\bin\Debug\net5.0\Programs.dll
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\bin\Debug\net5.0\Programs.pdb
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.csproj.AssemblyReference.cache
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.AssemblyInfoInputs.cache
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.AssemblyInfo.cs
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.dll
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\refint\Programs.dll
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.pdb
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\Programs.genruntimeconfig.cache
+C:\Users\Islam\source\repos\New folder\Prework-CodeChallenges\Programs\obj\Debug\net5.0\ref\Programs.dll
