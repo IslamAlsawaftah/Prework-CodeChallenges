@@ -6,14 +6,13 @@ namespace Programs
     {
         static void Main(string[] args)
         {
-            Program program = new Program();
-            Console.WriteLine(program.arrayMax());
-            Console.WriteLine(program.leapYear());
+            arrayMax();
+            leapYear();
             int[] array = { 2, 2, 3 };
-            Console.WriteLine(program.perfectSequence(array));
-            Console.WriteLine(program.SumOfrows());
+            perfectSequence(array);
+            SumOfrows();
         }
-        public string arrayMax()
+        static string arrayMax()
         {
             int[] array = new int[5];
             int num;
@@ -34,7 +33,7 @@ namespace Programs
             }
             return "your score is: " + num * count;
         }
-        public string leapYear()
+        static string leapYear()
         {
             Console.WriteLine("Enter Year : ");
             int Year = int.Parse(Console.ReadLine());
@@ -44,7 +43,7 @@ namespace Programs
                 return " is not a Leap Year." + Year;
 
         }
-        public string perfectSequence(int[] array)
+        static string perfectSequence(int[] array)
         {
             int prod = 1;
             int sum = 0;
@@ -65,34 +64,35 @@ namespace Programs
 
             return "No";
         }
-        public int SumOfrows() {
-int i, j, col, row;
-        int[,] arr1 = new int[3, 5];
-        int[] rsum = new int[10];
-        Console.Write("enter row number : ");
+        static int SumOfrows()
+        {
+            int i, j, col, row;
+            int[,] arr1 = new int[3, 5];
+            int[] rsum = new int[10];
+            Console.Write("enter row number : ");
             row = Convert.ToInt32(Console.ReadLine());
             Console.Write("enter column number : ");
             col = Convert.ToInt32(Console.ReadLine());
             Console.Write("Input elements in the matrix :\n");
-            for (i = 0; i<row; i++)
+            for (i = 0; i < row; i++)
             {
-                for (j = 0; j<col; j++)
+                for (j = 0; j < col; j++)
                 {
                     Console.Write("element - [{0}],[{1}] : ", i, j);
                     arr1[i, j] = Convert.ToInt32(Console.ReadLine());
                 }
-}
-// Sum of rows 
-for (i = 0; i < row; i++)
-{
-    rsum[i] = 0;
-    for (j = 0; j < col; j++)
-        rsum[i] += arr1[i, j];
+            }
+            // Sum of rows 
+            for (i = 0; i < row; i++)
+            {
+                rsum[i] = 0;
+                for (j = 0; j < col; j++)
+                    rsum[i] += arr1[i, j];
                 Console.Write("\n");
                 Console.Write("{" + rsum[i] + "}");
                 Console.Write("\n");
             }
-return 0;
-        }
+            return 0;
+    }
     }
 }
